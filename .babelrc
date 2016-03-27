@@ -1,0 +1,4 @@
+//tells babel which preset to use, so i dont have to define it over and over again
+{
+	"presets":["es2015"]
+}
